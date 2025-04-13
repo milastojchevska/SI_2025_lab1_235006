@@ -1,0 +1,7 @@
+git checkout 1-remove-a-task-by-name
+nano SI2025Lab1Main.java
+git add SI2025Lab1Main.java
+git commit -m "Remove a task by name implemented"
+git push origin 1-remove-a-task-by-name
+
+

@@ -1,0 +1,16 @@
+*   e801200 Merge branch '8-mark-a-task-as-completed-by-name'
+|\  
+| * 6a329c0 Mark a task as completed by name implemented
+* | 88d8549 Mark a task as completed by name implemented
+* |   19bad62 Merge pull request #11 from milastojchevska/4-sort-tasks-by-priority
+|\ \  
+| * | 3a08757 Sort tasks by priority implemented
+| |/  
+* |   bb61443 Merge pull request #10 from milastojchevska/1-remove-a-task-by-name
+|\ \  
+| |/  
+|/|   
+| * bb95c33 Remove a task by name implemented
+|/  
+* 5c3063b Add starter code
+* d954f84 Initial commit
