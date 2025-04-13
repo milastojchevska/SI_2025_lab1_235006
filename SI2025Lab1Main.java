@@ -85,7 +85,7 @@ class TaskManager {
 
     // 4. Sort tasks by priority
     public void sortTasksByPriority() {
-        // TODO: Implement sorting by priority logic
+        tasks.sort(Comparator.comparing(Task::getPriority).reversed());
     }
 
     // 5. Filter tasks by category
@@ -127,6 +127,8 @@ public class SI2025Lab1Main {
         // MISSING: Calls to the new methods that will be implemented
         manager.removeTask("Write report");
 
+
+        manager.sortTasksByPriority();
 
         manager.printTasks();
     }
